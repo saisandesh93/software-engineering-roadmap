@@ -27,14 +27,13 @@ Python
 
 Currently: Week 1 — Python & Software Engineering Foundations
 
-
 ## Progress
 
 ### Week 1 — Python & Software Engineering Foundations
 
 - [x] Day 1 — Python fundamentals assessment, DSA practice, and GitHub setup
-- [x] Day 2 — Advanced Python functions, scope, and hash-map DSA
-- [ ] Day 3 — Pythonic code, iteration, generators, and DSA
+- [x] Day 2 — Advanced Python functions, scope, and hash-based DSA
+- [x] Day 3 — Pythonic code, iteration, generators, and DSA
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
