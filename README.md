@@ -71,3 +71,10 @@ Currently: Week 1 — Python & Software Engineering Foundations
 - [x] Day 5
 - [ ] Day 6
 - [ ] Day 7
+<!-- day6-study-sync -->
+## Study progress
+
+- [x] Day 6 — Frequency counter and LeetCode Two Sum
+  - Two Sum: O(n) average time, O(n) extra space
+  - Notes: `study-notes/day-06.md`
+<!-- /day6-study-sync -->
